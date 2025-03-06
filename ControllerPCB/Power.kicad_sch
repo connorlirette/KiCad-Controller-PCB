@@ -1592,6 +1592,16 @@
 		)
 		(uuid "fd5fc378-31e3-435f-9d35-ec16bcd52195")
 	)
+	(text "will be replacing with a swtitching regulator buck converter most likely"
+		(exclude_from_sim no)
+		(at 115.824 66.802 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "30c2b5ee-b501-44a1-8df4-1dd433da1291")
+	)
 	(label "GND"
 		(at 99.06 48.26 90)
 		(effects
