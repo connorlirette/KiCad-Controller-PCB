@@ -582,6 +582,14 @@
     [
       "d9dc7727-95df-449e-b709-a3b82ce39a79",
       "Power"
+    ],
+    [
+      "3d1f8010-af48-4a48-807c-a6cd14f7ebca",
+      "MIDI OUT"
+    ],
+    [
+      "44e99b32-e94b-4b9c-bea5-deebb75b5e0a",
+      "Amplitude Detection"
     ]
   ],
   "text_variables": {}

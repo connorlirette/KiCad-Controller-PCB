@@ -8,6 +8,166 @@
 		(title "MCU 3.3V Power Supply")
 	)
 	(lib_symbols
+		(symbol "Connector:Conn_01x02_Pin"
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x02_Pin"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x02, script generated"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x02_Pin_1_1"
+				(polyline
+					(pts
+						(xy 1.27 -2.54) (xy 0.8636 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 0.8636 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 0.8636 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Device:C"
 			(pin_numbers hide)
 			(pin_names
@@ -128,6 +288,151 @@
 					(at 0 -3.81 90)
 					(length 2.794)
 					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Device:D_TVS"
+			(pin_numbers hide)
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "D_TVS"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Bidirectional transient-voltage-suppression diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "diode TVS thyrector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "D_TVS_0_1"
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 1.27) (xy 0 1.27) (xy 0 -1.27) (xy -0.508 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 1.27) (xy -2.54 -1.27) (xy 2.54 1.27) (xy 2.54 -1.27) (xy -2.54 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "D_TVS_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "A1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -425,389 +730,6 @@
 						)
 					)
 					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "Power_Protection:TVS0500DRV"
-			(pin_names
-				(offset 0) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at 2.54 1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "TVS0500DRV"
-				(at 2.54 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
-				(at 5.08 -8.89 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tvs0500.pdf"
-				(at -2.54 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Flat-Clamp Surge Protection Device. 5Vrwm, WSON-6"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "EMI, ESD, TVS protection transient"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "WSON*1EP*2x2mm*P0.65mm*EP1x1.6mm*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "TVS0500DRV_0_0"
-				(rectangle
-					(start -11.43 2.54)
-					(end -5.08 -2.54)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.27) (xy -1.778 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -8.255 -2.54) (xy -8.255 -3.81) (xy 0 -3.81)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -8.255 2.54) (xy -8.255 3.81) (xy 0 3.81)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(text "Det &"
-					(at -8.255 0.635 0)
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(text "Drv"
-					(at -8.255 -1.27 0)
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(symbol "TVS0500DRV_0_1"
-				(rectangle
-					(start -12.065 5.08)
-					(end 2.54 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(circle
-					(center -0.889 0)
-					(radius 2.794)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.286 0) (xy -5.08 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.286 1.397) (xy -2.286 -1.524)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 1.778) (xy -1.778 -1.778)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.54) (xy 0 -5.08)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 5.08) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.54) (xy 0 -1.27) (xy -1.778 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.127 -1.27) (xy -1.143 -1.651) (xy -1.143 -0.889) (xy -0.127 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-			)
-			(symbol "TVS0500DRV_1_1"
-				(pin power_in line
-					(at 0 -7.62 90)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -7.62 90)
-					(length 2.54) hide
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -7.62 90)
-					(length 2.54) hide
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 7.62 270)
-					(length 2.54)
-					(name "IN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 7.62 270)
-					(length 2.54) hide
-					(name "IN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 7.62 270)
-					(length 2.54) hide
-					(name "IN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -7.62 90)
-					(length 2.54) hide
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1256,126 +1178,6 @@
 				)
 			)
 		)
-		(symbol "power:VBUS"
-			(power)
-			(pin_numbers hide)
-			(pin_names
-				(offset 0) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "VBUS"
-				(at 0 3.556 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"VBUS\""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "VBUS_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "VBUS_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 	)
 	(junction
 		(at 99.06 68.58)
@@ -1390,6 +1192,12 @@
 		(uuid "0486394f-bd55-4d0a-8a5a-e91b75cb6ebf")
 	)
 	(junction
+		(at 74.93 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "09118d02-2650-4d6d-8a24-c4773072c5c7")
+	)
+	(junction
 		(at 127 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1402,10 +1210,10 @@
 		(uuid "49c74ef6-1715-4bbf-a698-e50edf243830")
 	)
 	(junction
-		(at 74.93 68.58)
+		(at 74.93 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5b6ebf7c-064e-4a55-be5d-3b513d2efe6a")
+		(uuid "6c2949ee-fbd4-44b6-98dd-1e85474a4de0")
 	)
 	(junction
 		(at 127 58.42)
@@ -1426,22 +1234,22 @@
 		(uuid "923e78a6-863d-45b6-9464-b4ad99739891")
 	)
 	(junction
-		(at 55.88 49.53)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a1cc106a-7d03-4380-a739-e269b4a42962")
-	)
-	(junction
-		(at 74.93 49.53)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b52d5a0e-2ad5-4830-8ce5-a024f2ecf61f")
-	)
-	(junction
 		(at 116.84 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d8834622-41e9-45ce-89e4-318c80ae847e")
+	)
+	(junction
+		(at 64.77 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e9a2486b-7188-4573-bce1-e09c9e9e043c")
+	)
+	(junction
+		(at 64.77 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eee44db0-c3d5-480f-9385-2fcd96df3776")
 	)
 	(junction
 		(at 116.84 49.53)
@@ -1461,16 +1269,6 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 68.58) (xy 74.93 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0a4f2243-a6a8-4775-a607-9de209d98de1")
-	)
-	(wire
-		(pts
 			(xy 74.93 49.53) (xy 86.36 49.53)
 		)
 		(stroke
@@ -1478,6 +1276,26 @@
 			(type default)
 		)
 		(uuid "0bb17f68-7d62-496f-8411-df349a677100")
+	)
+	(wire
+		(pts
+			(xy 58.42 58.42) (xy 58.42 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15b093d8-5954-44e5-b561-37cded8532cb")
+	)
+	(wire
+		(pts
+			(xy 64.77 49.53) (xy 74.93 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18c9f65e-3118-43f0-9ae0-e38fe6cac8c3")
 	)
 	(wire
 		(pts
@@ -1521,6 +1339,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 55.88) (xy 58.42 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "429775d9-105d-49b6-8c11-560e3cda1087")
+	)
+	(wire
+		(pts
 			(xy 99.06 59.69) (xy 99.06 68.58)
 		)
 		(stroke
@@ -1541,16 +1369,6 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 49.53) (xy 55.88 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "46b5d4c9-b702-4bdf-9f56-50efdac88230")
-	)
-	(wire
-		(pts
 			(xy 99.06 68.58) (xy 127 68.58)
 		)
 		(stroke
@@ -1561,23 +1379,23 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 49.53) (xy 44.45 46.99)
+			(xy 64.77 62.23) (xy 64.77 68.58)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "53609ec3-bb97-4659-8761-7e79178391a9")
+		(uuid "5996a51b-1cfd-4cfd-92a9-1075841d78f9")
 	)
 	(wire
 		(pts
-			(xy 55.88 49.53) (xy 44.45 49.53)
+			(xy 58.42 55.88) (xy 58.42 49.53)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "57a2205a-b22e-4ba0-9adf-78c43adbd24b")
+		(uuid "6249f52e-40ef-4289-a38c-cab361e14fce")
 	)
 	(wire
 		(pts
@@ -1651,6 +1469,16 @@
 	)
 	(wire
 		(pts
+			(xy 58.42 68.58) (xy 64.77 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ddbe9da-4ee2-4f88-a167-0cef6c0fef26")
+	)
+	(wire
+		(pts
 			(xy 116.84 49.53) (xy 127 49.53)
 		)
 		(stroke
@@ -1658,6 +1486,16 @@
 			(type default)
 		)
 		(uuid "7f96306d-c73e-4da1-8f28-bd37d5be8a39")
+	)
+	(wire
+		(pts
+			(xy 64.77 49.53) (xy 64.77 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ac23a87-b86e-457c-b6d3-4e21a55a6b9b")
 	)
 	(wire
 		(pts
@@ -1681,6 +1519,26 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 58.42) (xy 58.42 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9adbbb87-1c61-472b-b52f-92b5ef0c8c32")
+	)
+	(wire
+		(pts
+			(xy 64.77 68.58) (xy 74.93 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af4a6566-df99-4f68-818e-74aaa2eae67c")
+	)
+	(wire
+		(pts
 			(xy 86.36 49.53) (xy 88.9 49.53)
 		)
 		(stroke
@@ -1698,6 +1556,16 @@
 			(type default)
 		)
 		(uuid "d1986f05-c8e2-4851-b04b-c45b8b7d727a")
+	)
+	(wire
+		(pts
+			(xy 58.42 49.53) (xy 64.77 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9c55b78-2fb9-4be3-97a6-661339312a18")
 	)
 	(wire
 		(pts
@@ -1769,15 +1637,52 @@
 		)
 		(uuid "f8a0768e-51f8-44b9-a96a-47e0a842c10d")
 	)
-	(wire
-		(pts
-			(xy 55.88 49.53) (xy 74.93 49.53)
+	(text "A113510-ND"
+		(exclude_from_sim no)
+		(at 42.418 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
 		)
-		(stroke
-			(width 0)
-			(type default)
+		(uuid "3e0bba58-f593-499f-95fd-25831d05f611")
+	)
+	(text "External Connector For Power\n\n"
+		(exclude_from_sim no)
+		(at 44.45 39.116 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
 		)
-		(uuid "fba8f33c-e224-4d7d-99f8-01c6dada2b2e")
+		(uuid "5f5a9880-9ed0-4354-9303-49119e4b4bfd")
+	)
+	(text "TPSMB10CA "
+		(exclude_from_sim no)
+		(at 68.834 62.484 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+		)
+		(uuid "6819378b-764c-4ea9-9bc8-a6802ce78463")
+	)
+	(text "3-644343-2"
+		(exclude_from_sim no)
+		(at 43.18 42.164 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 166 88 255 1)
+			)
+		)
+		(uuid "686ac55d-49d7-4ce1-9626-73d274baf048")
 	)
 	(symbol
 		(lib_id "power:+3.3V")
@@ -1983,44 +1888,33 @@
 		)
 	)
 	(symbol
-		(lib_id "Power_Protection:TVS0500DRV")
-		(at 55.88 60.96 0)
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 43.18 55.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3a4ebf0f-c8ab-4c7d-9aa8-5a1b48d699ff")
-		(property "Reference" "U3"
-			(at 59.69 59.6899 0)
+		(uuid "4258103f-fa5f-4d65-81e0-cc83a3ae1d8d")
+		(property "Reference" "J13"
+			(at 43.815 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "TVS0500DRV"
-			(at 59.69 62.2299 0)
+		(property "Value" "+9V Power Conn"
+			(at 43.815 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
-			(at 60.96 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tvs0500.pdf"
-			(at 53.34 60.96 0)
+		(property "Footprint" ""
+			(at 43.18 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2028,8 +1922,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Flat-Clamp Surge Protection Device. 5Vrwm, WSON-6"
-			(at 55.88 60.96 0)
+		(property "Datasheet" "~"
+			(at 43.18 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2037,31 +1931,25 @@
 				(hide yes)
 			)
 		)
-		(pin "7"
-			(uuid "bb58103b-be65-47fd-8a33-ce38f1ea9309")
-		)
-		(pin "2"
-			(uuid "5e6c7059-a909-474f-9195-519da77166b9")
-		)
-		(pin "5"
-			(uuid "c9829674-7082-4b01-b838-71686429f549")
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 43.18 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
 		)
 		(pin "1"
-			(uuid "81c0eb37-6422-48e3-8ac3-62d05fd9da29")
+			(uuid "81d57141-e908-41ff-bbe4-15582c3fb818")
 		)
-		(pin "6"
-			(uuid "0f7606bd-3bc9-43d8-8ce9-96812faf8e92")
-		)
-		(pin "3"
-			(uuid "c6cc4403-c97f-4fb3-845c-e031a5909b2f")
-		)
-		(pin "4"
-			(uuid "22ac89b3-e4f5-4554-b8f5-860a0e3978d5")
+		(pin "2"
+			(uuid "fe84366f-f43b-4a4c-a28f-576777ba773d")
 		)
 		(instances
 			(project ""
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/d9dc7727-95df-449e-b709-a3b82ce39a79"
-					(reference "U3")
+					(reference "J13")
 					(unit 1)
 				)
 			)
@@ -2207,6 +2095,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D_TVS")
+		(at 64.77 58.42 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7673036f-92fb-436b-a943-bde45ecbc6c9")
+		(property "Reference" "D5"
+			(at 67.31 57.1499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "BAT_TVS"
+			(at 67.056 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 64.77 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 64.77 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Bidirectional transient-voltage-suppression diode"
+			(at 64.77 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "baa0c2f7-ac35-4a79-b952-65a47c415ff3")
+		)
+		(pin "1"
+			(uuid "be1a993e-60d2-43d6-b801-26179ce2c390")
+		)
+		(instances
+			(project ""
+				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/d9dc7727-95df-449e-b709-a3b82ce39a79"
+					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 163.83 59.69 0)
 		(unit 1)
@@ -2299,6 +2256,9 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(color 0 14 255 1)
 				)
 			)
 		)
@@ -2566,72 +2526,6 @@
 			(project ""
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/d9dc7727-95df-449e-b709-a3b82ce39a79"
 					(reference "R3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VBUS")
-		(at 44.45 46.99 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e0159709-9192-4e6c-a0ff-cdba1f6c7310")
-		(property "Reference" "#PWR015"
-			(at 44.45 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VBUS"
-			(at 44.45 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 44.45 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 44.45 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 44.45 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b98cbdd9-1a1c-4d22-8f2e-a54e53693cc9")
-		)
-		(instances
-			(project "ControllerPCB"
-				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/d9dc7727-95df-449e-b709-a3b82ce39a79"
-					(reference "#PWR015")
 					(unit 1)
 				)
 			)
