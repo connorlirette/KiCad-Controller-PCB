@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PESD3V6Z1BCSFYL
+D PESD3V3Z1BCSF - Extremely low capacitance bidirectional ESD protection diode
+K
+F https://assets.nexperia.com/documents/data-sheet/PESD3V6Z1BCSF.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPSMB10CA
+D Clamp Ipp Tvs Diode Surface Mount DO-214AA (SMBJ)
+K
+F https://www.littelfuse.com/media?resourcetype=datasheets&itemid=d30a5c86-2b33-4e41-aaab-b541fb69b0fa&filename=littelfuse-tvs-diode-tpsmb-datasheet
+$ENDCMP
+#
+#End Doc Library

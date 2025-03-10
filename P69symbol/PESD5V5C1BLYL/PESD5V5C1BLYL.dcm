@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PESD5V5C1BLYL
+D PESD5V5C1BL - Extremely low clamping bidirectional ESD protection diode@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/PESD5V0S1BA_BB_BL.pdf
+$ENDCMP
+#
+#End Doc Library
