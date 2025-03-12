@@ -447,6 +447,151 @@
 				)
 			)
 		)
+		(symbol "Device:D_TVS_Small"
+			(pin_numbers hide)
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "D_TVS_Small"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "diode TVS thyrector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "D_TVS_Small_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 1.016) (xy 0 1.016) (xy 0 -1.016) (xy -0.508 -1.016)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.016) (xy -1.27 -1.016) (xy 1.27 1.016) (xy 1.27 -1.016) (xy -1.27 1.016)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "D_TVS_Small_1_1"
+				(pin passive line
+					(at -2.54 0 0)
+					(length 1.27)
+					(name "A1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 180)
+					(length 1.27)
+					(name "A2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Device:LED"
 			(pin_numbers hide)
 			(pin_names
@@ -960,221 +1105,6 @@
 				)
 			)
 		)
-		(symbol "TPSMB10CA:TPSMB10CA"
-			(pin_names
-				(offset 0.762)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at 12.7 8.89 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "TPSMB10CA"
-				(at 12.7 6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "DIONM5436X244N"
-				(at 12.7 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=d30a5c86-2b33-4e41-aaab-b541fb69b0fa&filename=littelfuse-tvs-diode-tpsmb-datasheet"
-				(at 12.7 1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Description" "Clamp Ipp Tvs Diode Surface Mount DO-214AA (SMBJ)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "Clamp Ipp Tvs Diode Surface Mount DO-214AA (SMBJ)"
-				(at 12.7 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Height" "2.44"
-				(at 12.7 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" ""
-				(at 12.7 -6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" ""
-				(at 12.7 -8.89 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "LITTELFUSE"
-				(at 12.7 -11.43 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "TPSMB10CA"
-				(at 12.7 -13.97 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-					(hide yes)
-				)
-			)
-			(symbol "TPSMB10CA_0_0"
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 20.32 0 180)
-					(length 5.08)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "TPSMB10CA_0_1"
-				(polyline
-					(pts
-						(xy 9.144 2.54) (xy 10.16 2.032)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -2.032) (xy 10.16 2.032)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 -2.032) (xy 11.176 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 0) (xy 5.08 -2.54) (xy 5.08 2.54) (xy 10.16 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 0) (xy 15.24 -2.54) (xy 15.24 2.54) (xy 10.16 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-		)
 		(symbol "power:+3.3V"
 			(power)
 			(pin_numbers hide)
@@ -1411,12 +1341,6 @@
 		(uuid "0a507611-a840-484d-95de-66fe12f3be35")
 	)
 	(junction
-		(at 49.53 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0efcd029-2c49-4510-967c-e4548b012eaf")
-	)
-	(junction
 		(at 143.51 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1433,12 +1357,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8a9c6edc-2586-4f97-bc2e-1bc877355ec2")
-	)
-	(junction
-		(at 58.42 74.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8cf60a21-63d6-407c-8f98-83130090ba68")
 	)
 	(junction
 		(at 86.36 49.53)
@@ -1459,10 +1377,10 @@
 		(uuid "9cce7541-0df5-43d3-9332-acf29e5ebf89")
 	)
 	(junction
-		(at 64.77 76.2)
+		(at 64.77 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d4a1df43-453c-464b-a015-a35359dab643")
+		(uuid "b3ac8983-c8ea-4e58-9b38-624c5135ad94")
 	)
 	(junction
 		(at 116.84 58.42)
@@ -1481,16 +1399,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f0e5f7b7-8bc6-4be2-9480-5c16041a1c94")
-	)
-	(wire
-		(pts
-			(xy 74.93 76.2) (xy 74.93 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0214de06-4242-4cc8-80d0-fb7274ee32fd")
 	)
 	(wire
 		(pts
@@ -1514,16 +1422,6 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 58.42) (xy 58.42 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "15b093d8-5954-44e5-b561-37cded8532cb")
-	)
-	(wire
-		(pts
 			(xy 64.77 49.53) (xy 74.93 49.53)
 		)
 		(stroke
@@ -1531,26 +1429,6 @@
 			(type default)
 		)
 		(uuid "18c9f65e-3118-43f0-9ae0-e38fe6cac8c3")
-	)
-	(wire
-		(pts
-			(xy 58.42 76.2) (xy 64.77 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "25c3c391-e685-43e2-87d8-02155bffe88d")
-	)
-	(wire
-		(pts
-			(xy 64.77 76.2) (xy 74.93 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "285ab482-f817-4e40-8fbd-1e790feb1f53")
 	)
 	(wire
 		(pts
@@ -1594,7 +1472,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 55.88) (xy 49.53 55.88)
+			(xy 48.26 55.88) (xy 58.42 55.88)
 		)
 		(stroke
 			(width 0)
@@ -1624,6 +1502,16 @@
 	)
 	(wire
 		(pts
+			(xy 64.77 59.69) (xy 64.77 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43d56c85-761c-426a-9e70-d1ab5f24d59e")
+	)
+	(wire
+		(pts
 			(xy 99.06 68.58) (xy 127 68.58)
 		)
 		(stroke
@@ -1631,6 +1519,16 @@
 			(type default)
 		)
 		(uuid "4b6686d8-4ba4-41ca-afb1-43bb606bd92b")
+	)
+	(wire
+		(pts
+			(xy 58.42 58.42) (xy 58.42 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55ccc39b-6902-4f77-b6c0-8cc3eb0437fc")
 	)
 	(wire
 		(pts
@@ -1684,13 +1582,13 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 74.93) (xy 58.42 76.2)
+			(xy 64.77 68.58) (xy 74.93 68.58)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6e7cbe7e-1a1e-426a-82de-4017c6f573c5")
+		(uuid "7080af54-9c70-44f8-ae48-39895e82b704")
 	)
 	(wire
 		(pts
@@ -1734,16 +1632,6 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 72.39) (xy 40.64 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "86a225af-e27f-415a-bb79-e1e665da901b")
-	)
-	(wire
-		(pts
 			(xy 64.77 49.53) (xy 64.77 54.61)
 		)
 		(stroke
@@ -1761,16 +1649,6 @@
 			(type default)
 		)
 		(uuid "8e4aa4a2-a4ea-4e69-876c-232c4095e1aa")
-	)
-	(wire
-		(pts
-			(xy 40.64 74.93) (xy 58.42 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "951fcd13-b31d-404d-87d0-2b375b8a5956")
 	)
 	(wire
 		(pts
@@ -1794,16 +1672,6 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 55.88) (xy 58.42 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b08bd966-40d5-4397-b5fc-2d73b7517ab0")
-	)
-	(wire
-		(pts
 			(xy 86.36 49.53) (xy 88.9 49.53)
 		)
 		(stroke
@@ -1814,13 +1682,13 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 55.88) (xy 49.53 72.39)
+			(xy 58.42 68.58) (xy 64.77 68.58)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d0bd7772-dc89-4bf1-8863-55658fcd2beb")
+		(uuid "caea1c4a-83d8-4277-a45f-3af0be694854")
 	)
 	(wire
 		(pts
@@ -1831,16 +1699,6 @@
 			(type default)
 		)
 		(uuid "d1986f05-c8e2-4851-b04b-c45b8b7d727a")
-	)
-	(wire
-		(pts
-			(xy 64.77 76.2) (xy 64.77 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d6f75aad-add4-42bf-8ec8-7d916da6b4d6")
 	)
 	(wire
 		(pts
@@ -1922,15 +1780,15 @@
 		)
 		(uuid "f8a0768e-51f8-44b9-a96a-47e0a842c10d")
 	)
-	(text "TPSMB10CA "
+	(text "some sort of decoupling here\n"
 		(exclude_from_sim no)
-		(at 71.374 68.834 0)
+		(at 37.592 80.264 0)
 		(effects
 			(font
-				(size 0.762 0.762)
+				(size 1.27 1.27)
 			)
 		)
-		(uuid "6819378b-764c-4ea9-9bc8-a6802ce78463")
+		(uuid "d485dda1-83e1-4968-81fa-7cbf9ed21022")
 	)
 	(label "9V-"
 		(at 49.53 58.42 0)
@@ -1962,7 +1820,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b01ce3a-afae-4ec2-b32f-2826e2c027c6")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR0202"
 			(at 143.51 50.8 0)
 			(effects
 				(font
@@ -2012,7 +1870,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/d9dc7727-95df-449e-b709-a3b82ce39a79"
-					(reference "#PWR036")
+					(reference "#PWR0202")
 					(unit 1)
 				)
 			)
@@ -2028,7 +1886,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "222b4041-ce74-4fdd-a38c-325753c298d5")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR0201"
 			(at 99.06 74.93 0)
 			(effects
 				(font
@@ -2079,7 +1937,7 @@
 		(instances
 			(project ""
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/d9dc7727-95df-449e-b709-a3b82ce39a79"
-					(reference "#PWR035")
+					(reference "#PWR0201")
 					(unit 1)
 				)
 			)
@@ -2095,7 +1953,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2721d956-0aec-4d73-9519-7d04629d470e")
-		(property "Reference" "C25"
+		(property "Reference" "C201"
 			(at 78.74 55.8799 0)
 			(effects
 				(font
@@ -2149,7 +2007,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/d9dc7727-95df-449e-b709-a3b82ce39a79"
-					(reference "C25")
+					(reference "C201")
 					(unit 1)
 				)
 			)
@@ -2165,7 +2023,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4681e912-87da-40bf-8a41-6cfcf1666c05")
-		(property "Reference" "R5"
+		(property "Reference" "R201"
 			(at 129.54 52.0699 0)
 			(effects
 				(font
@@ -2219,7 +2077,77 @@
 		(instances
 			(project ""
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/d9dc7727-95df-449e-b709-a3b82ce39a79"
-					(reference "R5")
+					(reference "R201")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_TVS_Small")
+		(at 64.77 57.15 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "47659485-7e39-47eb-b136-dd7c2bb4e338")
+		(property "Reference" "D201"
+			(at 61.468 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D_TVS_Small"
+			(at 49.784 59.944 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 64.77 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 64.77 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 64.77 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "55ad9aa2-1b73-4e25-872d-a1b11d494a17")
+		)
+		(pin "1"
+			(uuid "140f5f35-e338-4a15-b984-804f0c237776")
+		)
+		(instances
+			(project "ControllerPCB"
+				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/d9dc7727-95df-449e-b709-a3b82ce39a79"
+					(reference "D201")
 					(unit 1)
 				)
 			)
@@ -2234,7 +2162,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5a8f613e-c6dd-4b81-8db1-6fb8fb8ebd6e")
-		(property "Reference" "C26"
+		(property "Reference" "C202"
 			(at 119.634 52.324 0)
 			(effects
 				(font
@@ -2288,7 +2216,7 @@
 		(instances
 			(project ""
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/d9dc7727-95df-449e-b709-a3b82ce39a79"
-					(reference "C26")
+					(reference "C202")
 					(unit 1)
 				)
 			)
@@ -2304,7 +2232,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "833ab38d-bf19-4839-b814-1e1016f58151")
-		(property "Reference" "R7"
+		(property "Reference" "R203"
 			(at 166.37 58.4199 0)
 			(effects
 				(font
@@ -2358,7 +2286,7 @@
 		(instances
 			(project ""
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/d9dc7727-95df-449e-b709-a3b82ce39a79"
-					(reference "R7")
+					(reference "R203")
 					(unit 1)
 				)
 			)
@@ -2374,7 +2302,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8aef6abd-2eed-4b66-a848-d7886f62616a")
-		(property "Reference" "U2"
+		(property "Reference" "U201"
 			(at 99.06 41.91 0)
 			(effects
 				(font
@@ -2447,7 +2375,7 @@
 		(instances
 			(project ""
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/d9dc7727-95df-449e-b709-a3b82ce39a79"
-					(reference "U2")
+					(reference "U201")
 					(unit 1)
 				)
 			)
@@ -2463,7 +2391,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9472fd80-599e-42eb-9b0c-efbf108ba00e")
-		(property "Reference" "C27"
+		(property "Reference" "C203"
 			(at 147.32 55.8799 0)
 			(effects
 				(font
@@ -2517,7 +2445,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/d9dc7727-95df-449e-b709-a3b82ce39a79"
-					(reference "C27")
+					(reference "C203")
 					(unit 1)
 				)
 			)
@@ -2534,7 +2462,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a1f98bbc-7dc7-4ee9-9cb3-a1ca820ae79b")
-		(property "Reference" "D5"
+		(property "Reference" "D202"
 			(at 156.5275 43.18 0)
 			(effects
 				(font
@@ -2586,7 +2514,7 @@
 		(instances
 			(project ""
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/d9dc7727-95df-449e-b709-a3b82ce39a79"
-					(reference "D5")
+					(reference "D202")
 					(unit 1)
 				)
 			)
@@ -2594,15 +2522,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 35.56 72.39 0)
+		(at 35.56 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "b4b679d4-bfb9-4505-a2f9-5f6d6524f0eb")
-		(property "Reference" "J13"
-			(at 36.068 66.548 0)
+		(property "Reference" "J201"
+			(at 36.068 67.818 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2610,7 +2538,7 @@
 			)
 		)
 		(property "Value" "9V Humbucker OUT"
-			(at 36.322 69.342 0)
+			(at 36.322 70.612 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2620,7 +2548,7 @@
 			)
 		)
 		(property "Footprint" "3_641126_2:TE_3-641126-2"
-			(at 35.56 72.39 0)
+			(at 35.56 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2629,7 +2557,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 35.56 72.39 0)
+			(at 35.56 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2638,7 +2566,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 35.56 72.39 0)
+			(at 35.56 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2655,7 +2583,7 @@
 		(instances
 			(project ""
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/d9dc7727-95df-449e-b709-a3b82ce39a79"
-					(reference "J13")
+					(reference "J201")
 					(unit 1)
 				)
 			)
@@ -2671,7 +2599,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf2cf246-4f8a-4848-9048-72582db16327")
-		(property "Reference" "R6"
+		(property "Reference" "R202"
 			(at 129.54 62.2299 0)
 			(effects
 				(font
@@ -2725,206 +2653,7 @@
 		(instances
 			(project ""
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/d9dc7727-95df-449e-b709-a3b82ce39a79"
-					(reference "R6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 64.77 76.2 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c1493434-104e-4121-8019-2f03164ba033")
-		(property "Reference" "#PWR034"
-			(at 64.77 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 64.77 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 64.77 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 64.77 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 64.77 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "11cc3d9b-8875-4eef-aa58-c4ebef3b5814")
-		)
-		(instances
-			(project "ControllerPCB"
-				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/d9dc7727-95df-449e-b709-a3b82ce39a79"
-					(reference "#PWR034")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "TPSMB10CA:TPSMB10CA")
-		(at 64.77 54.61 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c5bcaed3-b876-4989-8d20-f08be1264a6c")
-		(property "Reference" "D4"
-			(at 68.326 66.548 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "TVS_Bat"
-			(at 67.056 63.5 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "TPSMB10CA:DIONM5436X244N"
-			(at 60.96 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=d30a5c86-2b33-4e41-aaab-b541fb69b0fa&filename=littelfuse-tvs-diode-tpsmb-datasheet"
-			(at 63.5 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Description" "Clamp Ipp Tvs Diode Surface Mount DO-214AA (SMBJ)"
-			(at 64.77 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "Clamp Ipp Tvs Diode Surface Mount DO-214AA (SMBJ)"
-			(at 66.04 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Height" "2.44"
-			(at 68.58 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 71.12 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 73.66 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "LITTELFUSE"
-			(at 76.2 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "TPSMB10CA"
-			(at 78.74 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "945f283d-f272-44f7-bcbe-c046ec046c6d")
-		)
-		(pin "2"
-			(uuid "e5089244-969d-416e-be6f-12fda73c5ae1")
-		)
-		(instances
-			(project ""
-				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/d9dc7727-95df-449e-b709-a3b82ce39a79"
-					(reference "D4")
+					(reference "R202")
 					(unit 1)
 				)
 			)
@@ -2940,7 +2669,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f6aa109d-8a97-4444-9169-b45e8a79a0a8")
-		(property "Reference" "J14"
+		(property "Reference" "J202"
 			(at 37.846 49.53 0)
 			(effects
 				(font
@@ -3033,7 +2762,7 @@
 		(instances
 			(project ""
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/d9dc7727-95df-449e-b709-a3b82ce39a79"
-					(reference "J14")
+					(reference "J202")
 					(unit 1)
 				)
 			)

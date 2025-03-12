@@ -534,16 +534,6 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 31.75) (xy 82.55 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1867a878-1a41-47f0-a26b-5b75d7d7554f")
-	)
-	(wire
-		(pts
 			(xy 73.66 92.71) (xy 82.55 92.71)
 		)
 		(stroke
@@ -574,26 +564,6 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 93.98) (xy 196.85 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1f748621-4714-44b0-8c08-453d2a0ddb0b")
-	)
-	(wire
-		(pts
-			(xy 82.55 39.37) (xy 82.55 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20c835ba-79b8-4428-ae71-d0f97695eab7")
-	)
-	(wire
-		(pts
 			(xy 160.02 59.69) (xy 175.26 59.69)
 		)
 		(stroke
@@ -604,7 +574,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 39.37) (xy 196.85 44.45)
+			(xy 196.85 30.48) (xy 196.85 44.45)
 		)
 		(stroke
 			(width 0)
@@ -694,7 +664,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 101.6) (xy 82.55 106.68)
+			(xy 82.55 92.71) (xy 82.55 106.68)
 		)
 		(stroke
 			(width 0)
@@ -711,6 +681,16 @@
 			(type default)
 		)
 		(uuid "571298fb-7fef-4760-870f-ae087a9f9a94")
+	)
+	(wire
+		(pts
+			(xy 82.55 30.48) (xy 82.55 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69a75870-9887-4b8c-bb22-693076444583")
 	)
 	(wire
 		(pts
@@ -804,6 +784,16 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 92.71) (xy 196.85 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2e99307-3533-4b6d-a202-4e08c480f926")
+	)
+	(wire
+		(pts
 			(xy 187.96 82.55) (xy 187.96 83.82)
 		)
 		(stroke
@@ -864,16 +854,6 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 101.6) (xy 196.85 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b6c1207f-f892-43fd-b9d6-bad5c6f0efcb")
-	)
-	(wire
-		(pts
 			(xy 73.66 91.44) (xy 73.66 92.71)
 		)
 		(stroke
@@ -924,16 +904,6 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 93.98) (xy 82.55 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e2523653-2a0d-47a5-b99c-088a9a552ea0")
-	)
-	(wire
-		(pts
 			(xy 118.11 121.92) (xy 118.11 137.16)
 		)
 		(stroke
@@ -974,16 +944,6 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 31.75) (xy 196.85 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f33183ed-15b2-407d-8142-bcc84c518995")
-	)
-	(wire
-		(pts
 			(xy 196.85 114.3) (xy 196.85 129.54)
 		)
 		(stroke
@@ -992,45 +952,17 @@
 		)
 		(uuid "ffde6832-6cd0-4bfe-af5a-f296ad4891a3")
 	)
-	(text "MBR0520LT1GOSCT-ND\n"
+	(text "Shottkys: 230mV at 100mA\nReverse DC: 30V\n\n"
 		(exclude_from_sim no)
-		(at 210.82 136.906 0)
+		(at 248.92 24.13 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
 			)
 		)
-		(uuid "1af33974-501c-4691-87a1-6069f340cf22")
-	)
-	(text "MBR0520LT1GOSCT-ND\n"
-		(exclude_from_sim no)
-		(at 96.012 136.906 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "8286b78b-75b5-4f99-8849-7bdbf07d4d44")
-	)
-	(text "MBR0520LT1GOSCT-ND\n"
-		(exclude_from_sim no)
-		(at 210.566 74.422 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "8d03f08a-67f3-4374-835a-0fa3684cabea")
-	)
-	(text "MBR0520LT1GOSCT-ND\n"
-		(exclude_from_sim no)
-		(at 95.758 74.676 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "c86a7f8b-e540-4c26-93c2-cf6d6cc17b80")
+		(uuid "9b32ea21-c408-4f6b-84aa-92fc8b167e07")
 	)
 	(global_label "ADC_String_1_F"
 		(shape output)
@@ -1226,7 +1158,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "122cbf98-027d-43f7-81c5-93278e0d76af")
-		(property "Reference" "R23"
+		(property "Reference" "R412"
 			(at 190.5 96.5199 0)
 			(effects
 				(font
@@ -1280,7 +1212,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "R23")
+					(reference "R412")
 					(unit 1)
 				)
 			)
@@ -1294,10 +1226,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1bb391df-f6e6-49e6-9c4a-33d343a3cb56")
-		(property "Reference" "D9"
-			(at 85.09 131.7624 90)
+		(property "Reference" "D404"
+			(at 84.836 133.096 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1312,6 +1243,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
@@ -1350,7 +1282,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "D9")
+					(reference "D404")
 					(unit 1)
 				)
 			)
@@ -1364,10 +1296,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1ee5009c-17db-4eca-977c-a5540ee96719")
-		(property "Reference" "D10"
-			(at 101.9175 53.34 0)
+		(property "Reference" "D405"
+			(at 101.092 56.896 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1380,6 +1311,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
@@ -1418,7 +1350,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "D10")
+					(reference "D405")
 					(unit 1)
 				)
 			)
@@ -1434,7 +1366,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "210276bb-9568-4231-9021-a7f0ee1464aa")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR0412"
 			(at 196.85 143.51 0)
 			(effects
 				(font
@@ -1485,7 +1417,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "#PWR052")
+					(reference "#PWR0412")
 					(unit 1)
 				)
 			)
@@ -1499,10 +1431,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "25b607d2-fb94-4c11-9d75-1f36affdb435")
-		(property "Reference" "D17"
-			(at 216.2175 115.57 0)
+		(property "Reference" "D412"
+			(at 215.646 118.364 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1515,6 +1446,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
@@ -1553,7 +1485,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "D17")
+					(reference "D412")
 					(unit 1)
 				)
 			)
@@ -1569,7 +1501,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ba23126-7657-4b81-85f4-1b9b1ec2a70d")
-		(property "Reference" "R11"
+		(property "Reference" "R402"
 			(at 64.77 115.57 90)
 			(effects
 				(font
@@ -1621,7 +1553,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "R11")
+					(reference "R402")
 					(unit 1)
 				)
 			)
@@ -1635,10 +1567,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2cdaf7c5-bea9-475e-b957-06d4a5d8299f")
-		(property "Reference" "D15"
-			(at 199.39 131.7624 90)
+		(property "Reference" "D410"
+			(at 199.136 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1653,6 +1584,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
@@ -1691,7 +1623,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "D15")
+					(reference "D410")
 					(unit 1)
 				)
 			)
@@ -1707,7 +1639,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3a641fe7-44a7-40d3-824f-47184f87154a")
-		(property "Reference" "R12"
+		(property "Reference" "R403"
 			(at 76.2 24.1299 0)
 			(effects
 				(font
@@ -1761,7 +1693,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "R12")
+					(reference "R403")
 					(unit 1)
 				)
 			)
@@ -1775,10 +1707,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3e7a671d-11a9-44e0-bbde-c609320dd5ef")
-		(property "Reference" "D12"
-			(at 199.39 46.6724 90)
+		(property "Reference" "D407"
+			(at 199.136 48.006 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1793,6 +1724,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
@@ -1831,7 +1763,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "D12")
+					(reference "D407")
 					(unit 1)
 				)
 			)
@@ -1847,7 +1779,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4136a113-fb80-47a7-94f6-76ceffc050df")
-		(property "Reference" "R14"
+		(property "Reference" "R405"
 			(at 76.2 86.3599 0)
 			(effects
 				(font
@@ -1901,7 +1833,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "R14")
+					(reference "R405")
 					(unit 1)
 				)
 			)
@@ -1915,10 +1847,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "41639a18-185a-453d-b6d0-ecb09eba7a60")
-		(property "Reference" "D11"
-			(at 101.9175 115.57 0)
+		(property "Reference" "D406"
+			(at 101.6 118.618 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1931,6 +1862,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
@@ -1969,7 +1901,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "D11")
+					(reference "D406")
 					(unit 1)
 				)
 			)
@@ -1983,10 +1915,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "46d31811-e668-4dad-9149-4759d21a614c")
-		(property "Reference" "D8"
-			(at 85.09 108.9024 90)
+		(property "Reference" "D403"
+			(at 85.598 110.744 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2001,6 +1932,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
@@ -2039,77 +1971,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "D8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 196.85 97.79 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4cb8ad03-b868-495f-b74c-79d4b4e1695d")
-		(property "Reference" "R25"
-			(at 199.39 96.5199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "2k"
-			(at 199.39 99.0599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 195.072 97.79 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 196.85 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 196.85 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "89e33f6c-4800-46f7-a68e-eb7df470f5cc")
-		)
-		(pin "1"
-			(uuid "04a45f1a-bef5-44d1-9a4f-49e824f9ba40")
-		)
-		(instances
-			(project "ControllerPCB"
-				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "R25")
+					(reference "D403")
 					(unit 1)
 				)
 			)
@@ -2125,7 +1987,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4e75bc35-1fcd-4ca6-add8-a5510060a6dd")
-		(property "Reference" "R10"
+		(property "Reference" "R401"
 			(at 64.77 53.34 90)
 			(effects
 				(font
@@ -2177,7 +2039,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "R10")
+					(reference "R401")
 					(unit 1)
 				)
 			)
@@ -2191,10 +2053,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "54328d7b-d18d-4244-9fe1-51d96eca049d")
-		(property "Reference" "D6"
-			(at 85.09 46.6724 90)
+		(property "Reference" "D401"
+			(at 84.836 48.514 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2209,6 +2070,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
@@ -2247,7 +2109,7 @@
 		(instances
 			(project ""
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "D6")
+					(reference "D401")
 					(unit 1)
 				)
 			)
@@ -2263,7 +2125,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "57cbf1a1-ebbd-46cb-9d91-9cc47341a343")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR0410"
 			(at 187.96 107.95 0)
 			(effects
 				(font
@@ -2314,7 +2176,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "#PWR050")
+					(reference "#PWR0410")
 					(unit 1)
 				)
 			)
@@ -2330,7 +2192,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "69e31d38-cfe3-4d70-804e-60293dfa698b")
-		(property "Reference" "R21"
+		(property "Reference" "R410"
 			(at 190.5 34.2899 0)
 			(effects
 				(font
@@ -2384,7 +2246,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "R21")
+					(reference "R410")
 					(unit 1)
 				)
 			)
@@ -2400,7 +2262,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6bf7a1c8-a397-4015-b1ea-3add58a75c2e")
-		(property "Reference" "R19"
+		(property "Reference" "R408"
 			(at 179.07 115.57 90)
 			(effects
 				(font
@@ -2452,7 +2314,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "R19")
+					(reference "R408")
 					(unit 1)
 				)
 			)
@@ -2468,7 +2330,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6d35afb5-3521-4368-880e-a3a1d2f21189")
-		(property "Reference" "D13"
+		(property "Reference" "D408"
 			(at 199.39 69.5324 90)
 			(effects
 				(font
@@ -2484,6 +2346,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
@@ -2522,7 +2385,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "D13")
+					(reference "D408")
 					(unit 1)
 				)
 			)
@@ -2538,7 +2401,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "76b8511a-b9b3-41ed-96f6-82b24ea49611")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR0411"
 			(at 196.85 81.28 0)
 			(effects
 				(font
@@ -2589,7 +2452,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "#PWR051")
+					(reference "#PWR0411")
 					(unit 1)
 				)
 			)
@@ -2605,7 +2468,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78719d22-3db7-4375-90b1-2faa309ccf54")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR0406"
 			(at 82.55 143.51 0)
 			(effects
 				(font
@@ -2656,7 +2519,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "#PWR046")
+					(reference "#PWR0406")
 					(unit 1)
 				)
 			)
@@ -2672,7 +2535,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "797696e9-dc5d-4908-92b0-0da414c290f3")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR0404"
 			(at 73.66 107.95 0)
 			(effects
 				(font
@@ -2723,7 +2586,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "#PWR044")
+					(reference "#PWR0404")
 					(unit 1)
 				)
 			)
@@ -2739,7 +2602,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7a3eb58b-8120-4ea8-a9bf-f439596e944d")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR0409"
 			(at 187.96 86.36 0)
 			(effects
 				(font
@@ -2789,7 +2652,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "#PWR049")
+					(reference "#PWR0409")
 					(unit 1)
 				)
 			)
@@ -2803,10 +2666,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "87dc84d6-3128-46e3-85fa-edc989d135fe")
-		(property "Reference" "D16"
-			(at 216.2175 53.34 0)
+		(property "Reference" "D411"
+			(at 215.646 56.134 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2819,6 +2681,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
@@ -2857,7 +2720,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "D16")
+					(reference "D411")
 					(unit 1)
 				)
 			)
@@ -2873,7 +2736,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a33a0f3a-6822-47ad-b290-6f1646b12e83")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR0401"
 			(at 73.66 24.13 0)
 			(effects
 				(font
@@ -2923,7 +2786,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "#PWR041")
+					(reference "#PWR0401")
 					(unit 1)
 				)
 			)
@@ -2939,7 +2802,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a69dcf70-5985-497f-beca-866535d716aa")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR0408"
 			(at 187.96 45.72 0)
 			(effects
 				(font
@@ -2990,77 +2853,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "#PWR048")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 82.55 97.79 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b3c0ae30-e6bd-4e50-817f-9d334e230c3c")
-		(property "Reference" "R17"
-			(at 85.09 96.5199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "2k"
-			(at 85.09 99.0599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 80.772 97.79 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 82.55 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 82.55 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "70f1060d-b262-4cb9-9eb6-e6882a3e0937")
-		)
-		(pin "1"
-			(uuid "fb2e8183-3c78-4e1a-a22c-3ca824a6d3b4")
-		)
-		(instances
-			(project "ControllerPCB"
-				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "R17")
+					(reference "#PWR0408")
 					(unit 1)
 				)
 			)
@@ -3076,7 +2869,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b3ff08b3-5562-4767-8726-a9f638f5d5be")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR0403"
 			(at 73.66 86.36 0)
 			(effects
 				(font
@@ -3126,7 +2919,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "#PWR043")
+					(reference "#PWR0403")
 					(unit 1)
 				)
 			)
@@ -3140,10 +2933,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c11fd3cc-065c-4fcb-a434-e3b050e7d9aa")
-		(property "Reference" "D14"
-			(at 199.39 108.9024 90)
+		(property "Reference" "D409"
+			(at 199.39 110.236 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3158,6 +2950,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
@@ -3196,7 +2989,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "D14")
+					(reference "D409")
 					(unit 1)
 				)
 			)
@@ -3212,7 +3005,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c2021a1d-3a94-487f-b91a-605da5cfcfee")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR0405"
 			(at 82.55 81.28 0)
 			(effects
 				(font
@@ -3263,7 +3056,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "#PWR045")
+					(reference "#PWR0405")
 					(unit 1)
 				)
 			)
@@ -3279,7 +3072,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c8d02d0a-24ba-4bd2-96c4-3ef8c6fb337d")
-		(property "Reference" "R22"
+		(property "Reference" "R411"
 			(at 190.5 86.3599 0)
 			(effects
 				(font
@@ -3333,7 +3126,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "R22")
+					(reference "R411")
 					(unit 1)
 				)
 			)
@@ -3349,7 +3142,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ce3dec14-c3b9-4b3b-a604-90015e757d08")
-		(property "Reference" "R20"
+		(property "Reference" "R409"
 			(at 190.5 24.1299 0)
 			(effects
 				(font
@@ -3403,7 +3196,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "R20")
+					(reference "R409")
 					(unit 1)
 				)
 			)
@@ -3419,7 +3212,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da43648a-0a6c-4889-b899-642ceef21399")
-		(property "Reference" "R18"
+		(property "Reference" "R407"
 			(at 179.07 53.34 90)
 			(effects
 				(font
@@ -3471,7 +3264,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "R18")
+					(reference "R407")
 					(unit 1)
 				)
 			)
@@ -3485,10 +3278,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ddad1ce7-1f69-4e95-939c-be99966fcc41")
-		(property "Reference" "D7"
-			(at 85.09 69.5324 90)
+		(property "Reference" "D402"
+			(at 84.582 70.612 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3503,6 +3295,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
@@ -3541,7 +3334,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "D7")
+					(reference "D402")
 					(unit 1)
 				)
 			)
@@ -3557,7 +3350,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e2669b8b-808e-469a-baa8-f6ad4244506a")
-		(property "Reference" "R15"
+		(property "Reference" "R406"
 			(at 76.2 96.5199 0)
 			(effects
 				(font
@@ -3611,147 +3404,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "R15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 196.85 35.56 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e5091df7-e8a3-411a-ad2c-7f1c518c5c73")
-		(property "Reference" "R24"
-			(at 199.39 34.2899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "2k"
-			(at 199.39 36.8299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 195.072 35.56 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 196.85 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 196.85 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f18ab17b-50b4-4745-9b6e-1b2d0ea835b0")
-		)
-		(pin "1"
-			(uuid "5455db05-9c71-409d-abe9-ce8cf60793ae")
-		)
-		(instances
-			(project "ControllerPCB"
-				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "R24")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 82.55 35.56 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ec9cf447-5547-4f90-8284-40d65d48e00f")
-		(property "Reference" "R16"
-			(at 85.09 34.2899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "2k"
-			(at 85.09 36.8299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 80.772 35.56 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 82.55 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 82.55 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "58ac178d-cfaf-4af9-8d98-f0efcc14427b")
-		)
-		(pin "1"
-			(uuid "b1046b7a-1495-45c3-9660-af3105f991aa")
-		)
-		(instances
-			(project "ControllerPCB"
-				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "R16")
+					(reference "R406")
 					(unit 1)
 				)
 			)
@@ -3767,7 +3420,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eda832d9-8ffe-45a7-ad88-a436e094f851")
-		(property "Reference" "R13"
+		(property "Reference" "R404"
 			(at 76.2 34.2899 0)
 			(effects
 				(font
@@ -3821,7 +3474,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "R13")
+					(reference "R404")
 					(unit 1)
 				)
 			)
@@ -3837,7 +3490,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ee25fb21-72c8-4a9d-a260-b0e8a456b782")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR0402"
 			(at 73.66 45.72 0)
 			(effects
 				(font
@@ -3888,7 +3541,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "#PWR042")
+					(reference "#PWR0402")
 					(unit 1)
 				)
 			)
@@ -3904,7 +3557,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f0e02766-9cd0-4fe2-bb28-be34f1116b38")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR0407"
 			(at 187.96 24.13 0)
 			(effects
 				(font
@@ -3954,7 +3607,7 @@
 		(instances
 			(project "ControllerPCB"
 				(path "/b6b9154e-ee88-44ea-8b68-6c4328b55066/44e99b32-e94b-4b9c-bea5-deebb75b5e0a"
-					(reference "#PWR047")
+					(reference "#PWR0407")
 					(unit 1)
 				)
 			)
