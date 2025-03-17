@@ -829,7 +829,7 @@
 		(at 107.95 59.69 0)
 		(effects
 			(font
-				(size 0.635 0.635)
+				(size 0.889 0.889)
 			)
 			(justify left bottom)
 		)
@@ -839,7 +839,7 @@
 		(at 88.9 59.69 0)
 		(effects
 			(font
-				(size 0.635 0.635)
+				(size 1.143 1.143)
 			)
 			(justify left bottom)
 		)
@@ -849,7 +849,7 @@
 		(at 106.68 57.15 0)
 		(effects
 			(font
-				(size 0.635 0.635)
+				(size 0.889 0.889)
 			)
 			(justify left bottom)
 		)
@@ -1307,7 +1307,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "22292031:CONN_AE-6410-03A_MOL"
+		(property "Footprint" "0_Footprint_lib:CONN_AE-6410-03A_MOL"
 			(at 121.92 59.69 0)
 			(effects
 				(font
@@ -1377,7 +1377,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SN74LVC1G17DBVR:SOT95P280X145-5N"
+		(property "Footprint" "0_Footprint_lib:SOT95P280X145-5N"
 			(at 76.2 59.69 0)
 			(effects
 				(font

@@ -1,74 +1,137 @@
-24672142076963049
-3_641126_2
-TE_3-641126-2
-
-
-0
-2
-2
-75869-107LF
-SHDR40W62P254_2X20_5801X920X957P
-75869-107LF
-Connector
-0
-40
-40
-75869_332LF
-AMPHENOL_75869-332LF
-
-
-0
-8
-8
-22292031
-CONN_AE-6410-03A_MOL
-
-22292031 
-0
-3
-3
-22292041
-CONN_AE-6410-04A_MOL
-
-22292041 
-0
-4
-4
-830059082
+24673882540106710
+0_Footprint_lib
 830059082
 830059082-1
 Crystal or Oscillator
 0
 4
 4
-629105150521
+0_Footprint_lib
 629105150521
 
 
 0
 9
 9
-ADP3336ARMZ_REEL7
+0_Footprint_lib
+AMPHENOL_75869-332LF
+
+
+0
+8
+8
+0_Footprint_lib
+APP_ASMPR45-1X2-RK
+
+
+0
+7
+7
+0_Footprint_lib
+CONN_AE-6410-03A_MOL
+
+22292031 
+0
+3
+3
+0_Footprint_lib
+CONN_AE-6410-04A_MOL
+
+22292041 
+0
+4
+4
+0_Footprint_lib
+DIONM5436X244N
+DO-214AA (SMB J-Bend) height 2.44
+TVS Diode (Bi-directional)
+0
+2
+2
+0_Footprint_lib
+PESD5V5C1BLYL
+PESD5V5C1BLYL-2
+Diode ESD (Bi-directional)
+0
+2
+2
+0_Footprint_lib
+PMEG3005AESFYL
+SOD962-2
+Diode ESD (Bi-directional)
+0
+2
+2
+0_Footprint_lib
 RM_8_ADI
 
 ADP3336ARMZ-REEL7 
 0
 8
 8
-ADP3336ARMZ_REEL7
+0_Footprint_lib
 RM_8_ADI-L
 
 ADP3336ARMZ-REEL7 
 0
 8
 8
-ADP3336ARMZ_REEL7
+0_Footprint_lib
 RM_8_ADI-M
 
 ADP3336ARMZ-REEL7 
 0
 8
 8
+0_Footprint_lib
+SAMTEC_FTSH-105-01-F-D-K
+
+
+0
+10
+10
+0_Footprint_lib
+SHDR40W62P254_2X20_5801X920X957P
+75869-107LF
+Connector
+0
+40
+40
+0_Footprint_lib
+SOD3716X135N
+
+
+0
+2
+2
+0_Footprint_lib
+SOIC127P600X175-8N
+
+
+0
+8
+8
+0_Footprint_lib
+SOT95P280X145-5N
+DBV0005A
+Integrated Circuit
+0
+5
+5
+0_Footprint_lib
+SW_JS102011SAQN
+
+
+0
+3
+3
+0_Footprint_lib
+TE_3-641126-2
+
+
+0
+2
+2
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57287,13 +57350,6 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
-FTSH_105_01_F_D_K
-SAMTEC_FTSH-105-01-F-D-K
-
-
-0
-10
-10
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -64539,13 +64595,6 @@ THT
 0
 4
 2
-JS102011SAQN
-SW_JS102011SAQN
-
-
-0
-3
-3
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
@@ -65894,13 +65943,6 @@ LED_THT
 LED_VCCLite_5381H7_6.35x6.35mm
 Yellow 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf
 Yellow 5381 Series LED
-0
-2
-2
-MBR0520LT1G
-SOD3716X135N
-
-
 0
 2
 2
@@ -69845,20 +69887,6 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
-PESD3V6Z1BCSFYL
-PMEG3005AESFYL
-SOD962-2
-Diode ESD (Bi-directional)
-0
-2
-2
-PESD5V5C1BLYL
-PESD5V5C1BLYL
-PESD5V5C1BLYL-2
-Diode ESD (Bi-directional)
-0
-2
-2
 Package_BGA
 Alliance_TFBGA-36_6x8mm_Layout6x8_P0.75mm
 Alliance TFBGA-36, NSMD, 6.0x8.0mm, 36 Ball, 6x8 Layout, 0.75mm Pitch, https://www.alliancememory.com/wp-content/uploads/pdf/AS6C1008_Mar_2023V1.2.pdf
@@ -87611,13 +87639,6 @@ Potentiometer vertical vishay
 0
 3
 3
-PowerConnector
-APP_ASMPR45-1X2-RK
-
-
-0
-7
-7
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
@@ -91160,13 +91181,6 @@ rotary encoder illuminated switch vertical
 0
 9
 8
-SN74LVC1G17DBVR
-SOT95P280X145-5N
-DBV0005A
-Integrated Circuit
-0
-5
-5
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -92840,13 +92854,6 @@ Logo WEEE
 0
 0
 0
-TPSMB10CA
-DIONM5436X244N
-DO-214AA (SMB J-Bend) height 2.44
-TVS Diode (Bi-directional)
-0
-2
-2
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
