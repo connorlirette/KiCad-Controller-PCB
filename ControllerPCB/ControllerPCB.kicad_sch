@@ -18376,7 +18376,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_TVS_Small"
+		(property "Value" "D_TVS_VBUS"
 			(at 308.61 46.9899 90)
 			(effects
 				(font
@@ -18433,7 +18433,7 @@
 		(at 194.31 153.67 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "e0dfb979-43d9-46b3-be11-1d9f9c3eca4c")
