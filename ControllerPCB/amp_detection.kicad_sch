@@ -1387,6 +1387,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C25091"
+			(at 182.88 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "297764b3-55e5-4a8c-bb8e-92d9e02d3775")
 		)
@@ -1474,6 +1483,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C146335"
+			(at 195.58 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3a5cd7e3-c115-4207-bfc7-27873a98640f")
 		)
@@ -1553,6 +1571,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 191.77 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C146335"
 			(at 191.77 63.5 0)
 			(effects
 				(font
@@ -1780,6 +1807,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C146335"
+			(at 104.14 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "204b3eaa-088b-451e-b754-0fab30857613")
 		)
@@ -1934,6 +1970,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C146335"
+			(at 102.87 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a8594ff4-1538-4c3e-bf0a-f0b9c77c61ef")
 		)
@@ -1996,6 +2041,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 95.25 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25091"
 			(at 95.25 43.18 0)
 			(effects
 				(font
@@ -2138,6 +2192,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C11702 "
+			(at 177.8 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "68763b50-da2d-410a-ab00-ca93333188ba")
 		)
@@ -2225,6 +2288,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C146335"
+			(at 182.88 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8f1b1ab9-d4a3-4bdc-9ac5-be6a354f7199")
 		)
@@ -2285,6 +2357,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 88.9 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C11702 "
 			(at 88.9 139.7 0)
 			(effects
 				(font
@@ -2355,6 +2436,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 173.99 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C4109"
 			(at 173.99 115.57 0)
 			(effects
 				(font
@@ -2450,6 +2540,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C146335"
+			(at 182.88 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1b9478c2-beb2-4612-9e25-050bb4498ed5")
 		)
@@ -2510,6 +2609,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 90.17 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C11702 "
 			(at 90.17 77.47 0)
 			(effects
 				(font
@@ -2647,6 +2755,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 182.88 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C4109"
 			(at 182.88 52.07 0)
 			(effects
 				(font
@@ -2851,6 +2968,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 93.98 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25091"
 			(at 93.98 105.41 0)
 			(effects
 				(font
@@ -3079,6 +3205,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C146335"
+			(at 102.87 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4551628f-3e08-4fce-9025-e70d791a4e8a")
 		)
@@ -3166,6 +3301,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C146335"
+			(at 104.14 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "71bf9cdc-e3f1-47fd-82e1-07cfb3713197")
 		)
@@ -3226,6 +3370,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 168.91 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C11702 "
 			(at 168.91 139.7 0)
 			(effects
 				(font
@@ -3388,6 +3541,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C146335"
+			(at 116.84 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c047a7a7-c437-48cd-b7e6-169732f0c659")
 		)
@@ -3475,6 +3637,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C146335"
+			(at 115.57 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "41ddd744-1a66-457b-8227-7ec5054a359a")
 		)
@@ -3537,6 +3708,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 93.98 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C4109"
 			(at 93.98 115.57 0)
 			(effects
 				(font
@@ -3632,6 +3812,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C146335"
+			(at 191.77 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d9ca35c5-b97e-474f-9587-6d48ab862a53")
 		)
@@ -3719,6 +3908,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C146335"
+			(at 204.47 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "310f0b72-1bd1-4574-9e6e-582b7a76a7c5")
 		)
@@ -3781,6 +3979,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 95.25 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C4109"
 			(at 95.25 53.34 0)
 			(effects
 				(font
@@ -3917,6 +4124,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 173.99 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C25091"
 			(at 173.99 105.41 0)
 			(effects
 				(font

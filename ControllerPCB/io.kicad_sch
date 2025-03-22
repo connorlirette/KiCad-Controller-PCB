@@ -13075,6 +13075,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 220.98 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ea2b3063-c562-4bf5-b171-df0324a356af")
 		)
@@ -13137,6 +13146,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 215.9 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 215.9 143.51 0)
 			(effects
 				(font
@@ -13215,6 +13233,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 62.23 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "16e08152-ed01-45ad-a5a2-884e7dc78b53")
 		)
@@ -13277,6 +13304,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 133.35 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 133.35 143.51 0)
 			(effects
 				(font
@@ -13355,6 +13391,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 69.85 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ca0831f7-8b9d-4220-b591-31467583d5bb")
 		)
@@ -13417,6 +13462,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 205.74 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 205.74 143.51 0)
 			(effects
 				(font
@@ -13495,6 +13549,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 123.19 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "261461c9-12de-47f0-a1aa-14d10e78cccb")
 		)
@@ -13565,6 +13628,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 238.76 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2bb77f9b-2077-4e15-bc98-1eabcae6690a")
 		)
@@ -13627,6 +13699,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 148.59 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 148.59 143.51 0)
 			(effects
 				(font
@@ -13772,6 +13853,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 158.75 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "24a4f31d-fd71-4b6d-851f-61f7d76ba17b")
 		)
@@ -13834,6 +13924,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 226.06 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 226.06 143.51 0)
 			(effects
 				(font
@@ -13912,6 +14011,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 138.43 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6c46a3f9-4f46-408b-9a38-204bc52a9912")
 		)
@@ -13974,6 +14082,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 233.68 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 233.68 74.93 0)
 			(effects
 				(font
@@ -14052,6 +14169,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 236.22 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "55464c20-86be-4214-997c-5dc1376a100b")
 		)
@@ -14114,6 +14240,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 143.51 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 143.51 143.51 0)
 			(effects
 				(font
@@ -14192,6 +14327,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 82.55 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "71c921d4-ce84-4cd5-a897-e3c97411a843")
 		)
@@ -14254,6 +14398,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 208.28 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 208.28 74.93 0)
 			(effects
 				(font
@@ -14332,6 +14485,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 54.61 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "08dfab60-942d-410c-a941-8ecc46ed19ae")
 		)
@@ -14402,6 +14564,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 125.73 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "83eeac0f-4c28-4e99-b96c-582f863b9ed1")
 		)
@@ -14464,6 +14635,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 238.76 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 238.76 143.51 0)
 			(effects
 				(font
@@ -14609,6 +14789,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 80.01 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "23452472-d99f-4b88-af03-f4a221f8e502")
 		)
@@ -14671,6 +14860,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 223.52 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 223.52 74.93 0)
 			(effects
 				(font
@@ -14749,6 +14947,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 205.74 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "75807513-8066-4e43-b953-08ba7712c936")
 		)
@@ -14811,6 +15018,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 218.44 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 218.44 74.93 0)
 			(effects
 				(font
@@ -14889,6 +15105,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 87.63 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0c093bb3-5c4d-4fc0-9d9b-fb2ba49a280a")
 		)
@@ -14951,6 +15176,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 236.22 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 236.22 74.93 0)
 			(effects
 				(font
@@ -15029,6 +15263,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 213.36 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "93855b14-0149-43a7-b916-c0bd77d7a49f")
 		)
@@ -15091,6 +15334,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 223.52 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 223.52 143.51 0)
 			(effects
 				(font
@@ -15169,6 +15421,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 228.6 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "075561cd-4a79-4274-998d-796d3a57cb3e")
 		)
@@ -15231,6 +15492,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 243.84 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 243.84 74.93 0)
 			(effects
 				(font
@@ -15309,6 +15579,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 72.39 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b8ecd717-fa71-4f26-acc6-1b8f55bfd538")
 		)
@@ -15371,6 +15650,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 228.6 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 228.6 143.51 0)
 			(effects
 				(font
@@ -15449,6 +15737,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 57.15 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1ccd9b0d-9d74-40d3-a202-8a949a879b2a")
 		)
@@ -15511,6 +15808,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 135.89 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 135.89 143.51 0)
 			(effects
 				(font
@@ -15589,6 +15895,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 231.14 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "05850272-50a4-4aa6-9b42-55e9dfcdb32a")
 		)
@@ -15651,6 +15966,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 140.97 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 140.97 143.51 0)
 			(effects
 				(font
@@ -15729,6 +16053,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 215.9 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c91d8e2f-cc3c-4433-9f22-b7336d2808e8")
 		)
@@ -15791,6 +16124,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 67.31 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 67.31 143.51 0)
 			(effects
 				(font
@@ -15869,6 +16211,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 248.92 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3d88f204-bafc-4cb9-af3f-d9206f87bf4b")
 		)
@@ -15931,6 +16282,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 44.45 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 44.45 143.51 0)
 			(effects
 				(font
@@ -16009,6 +16369,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 74.93 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5865f8d5-8ede-4b33-b0c7-4bf4724c1d1f")
 		)
@@ -16071,6 +16440,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 128.27 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 128.27 143.51 0)
 			(effects
 				(font
@@ -16149,6 +16527,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 166.37 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9a897347-6ca3-4a83-a9f0-d061a529835b")
 		)
@@ -16211,6 +16598,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 246.38 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 246.38 143.51 0)
 			(effects
 				(font
@@ -16356,6 +16752,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 156.21 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a3c73369-2539-4043-8bc7-d95d6f4ea8c6")
 		)
@@ -16418,6 +16823,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 130.81 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 130.81 143.51 0)
 			(effects
 				(font
@@ -16496,6 +16910,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 59.69 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d3534a5b-1cf3-468c-b74a-09c1c6fadcb4")
 		)
@@ -16558,6 +16981,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 64.77 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 64.77 143.51 0)
 			(effects
 				(font
@@ -16636,6 +17068,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 52.07 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cba07274-500c-44e5-89e4-3cca1173fb09")
 		)
@@ -16698,6 +17139,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 210.82 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 210.82 143.51 0)
 			(effects
 				(font
@@ -16776,6 +17226,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 213.36 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b06687ec-3f15-4a54-a615-8ce93807d1d3")
 		)
@@ -16838,6 +17297,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 161.29 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 161.29 143.51 0)
 			(effects
 				(font
@@ -16916,6 +17384,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 208.28 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e456bb26-572f-45b8-80a6-c614ce58f7aa")
 		)
@@ -16978,6 +17455,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 120.65 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 120.65 143.51 0)
 			(effects
 				(font
@@ -17056,6 +17542,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 163.83 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9a688add-a085-4eac-97b2-e30dcddd0899")
 		)
@@ -17126,6 +17621,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 210.82 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cca6468d-bc12-49b9-8e11-7cc8c6515866")
 		)
@@ -17188,6 +17692,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 168.91 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 168.91 143.51 0)
 			(effects
 				(font
@@ -17333,6 +17846,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 77.47 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cc3a8b56-8e81-46d7-bc01-a22059b880e9")
 		)
@@ -17395,6 +17917,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 218.44 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 218.44 143.51 0)
 			(effects
 				(font
@@ -17473,6 +18004,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 243.84 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2d17f7d6-0660-4b9f-87d6-9085f25f5689")
 		)
@@ -17535,6 +18075,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 146.05 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 146.05 143.51 0)
 			(effects
 				(font
@@ -17613,6 +18162,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 248.92 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4e2d67e4-71bc-4282-8493-f215c9dc2672")
 		)
@@ -17675,6 +18233,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 153.67 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 153.67 143.51 0)
 			(effects
 				(font
@@ -17753,6 +18320,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 46.99 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "88fe8b53-4ce5-499e-a0a5-9dff415b3db2")
 		)
@@ -17815,6 +18391,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 251.46 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 251.46 143.51 0)
 			(effects
 				(font
@@ -17893,6 +18478,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 233.68 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2c2c4d7a-3cd0-4b94-9291-8c0b475120f8")
 		)
@@ -17955,6 +18549,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 226.06 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 226.06 74.93 0)
 			(effects
 				(font
@@ -18033,6 +18636,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 203.2 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c0d0b25e-0ea2-49d9-8b8b-85bda4289449")
 		)
@@ -18095,6 +18707,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 246.38 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 246.38 74.93 0)
 			(effects
 				(font
@@ -18173,6 +18794,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 151.13 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "119acb02-71d3-45c1-a5ff-c6e4c3ed7458")
 		)
@@ -18193,9 +18823,9 @@
 		(at 48.26 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d3fcdca3-87ef-4815-9513-a2aa2984e358")
 		(property "Reference" "J501"
@@ -18233,6 +18863,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x20, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 48.26 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 48.26 57.15 0)
 			(effects
 				(font
@@ -18425,6 +19064,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 231.14 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "23904f2e-dcbc-4263-b641-65390ecd92d5")
 		)
@@ -18487,6 +19135,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 241.3 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 241.3 143.51 0)
 			(effects
 				(font
@@ -18565,6 +19222,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 220.98 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "041f733d-af2d-4449-b870-101b1287973d")
 		)
@@ -18627,6 +19293,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 39.37 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 39.37 143.51 0)
 			(effects
 				(font
@@ -18705,6 +19380,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 203.2 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fbafa4ac-4873-42d2-ae6d-0bec7b495aff")
 		)
@@ -18767,6 +19451,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 251.46 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 251.46 74.93 0)
 			(effects
 				(font
@@ -18845,6 +19538,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 49.53 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "74716c6e-add7-40d1-ab42-e1fb7037cb44")
 		)
@@ -18907,6 +19609,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 85.09 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 85.09 143.51 0)
 			(effects
 				(font
@@ -18985,6 +19696,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 41.91 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "aaac43a7-d70b-49bd-9c9b-17e65ad4189c")
 		)
@@ -19005,9 +19725,9 @@
 		(at 110.49 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "fb049e18-646f-4025-a85c-52b814a91e03")
 		(property "Reference" "J502"
@@ -19045,6 +19765,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x20, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 110.49 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 110.49 57.15 0)
 			(effects
 				(font
@@ -19229,6 +19958,15 @@
 			)
 		)
 		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 241.3 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2908830"
 			(at 241.3 74.93 0)
 			(effects
 				(font

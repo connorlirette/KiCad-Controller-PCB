@@ -2090,6 +2090,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C52923"
+			(at 74.93 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cf98b7f3-d18e-4e73-ab04-6ea29fd87b24")
 		)
@@ -2152,6 +2161,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 127 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2998127"
 			(at 127 53.34 0)
 			(effects
 				(font
@@ -2230,6 +2248,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C2908830"
+			(at 64.77 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "55ad9aa2-1b73-4e25-872d-a1b11d494a17")
 		)
@@ -2291,6 +2318,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 116.84 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C1546"
 			(at 116.84 53.34 0)
 			(effects
 				(font
@@ -2369,6 +2405,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C11702 "
+			(at 163.83 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "725fcf09-9bb9-4fe6-902b-03a1d8f17526")
 		)
@@ -2389,9 +2434,9 @@
 		(at 99.06 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "8aef6abd-2eed-4b66-a848-d7886f62616a")
 		(property "Reference" "U201"
@@ -2432,6 +2477,15 @@
 			)
 		)
 		(property "Description" "High Accuracy Ultralow IQ, 500mA anyCAP Adjustable Low Dropout Regulator, MSOP-8"
+			(at 99.06 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 99.06 52.07 0)
 			(effects
 				(font
@@ -2528,6 +2582,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C52923"
+			(at 143.51 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "caecb9a8-11d6-498d-b6fe-7324b6ddb4e4")
 		)
@@ -2597,6 +2660,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C22371297"
+			(at 154.94 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9f892c49-6f1f-403b-ad49-9a2df36d1a3b")
 		)
@@ -2617,9 +2689,9 @@
 		(at 36.83 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b4b679d4-bfb9-4505-a2f9-5f6d6524f0eb")
 		(property "Reference" "J201"
 			(at 37.338 62.738 0)
@@ -2658,6 +2730,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 36.83 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 36.83 68.58 0)
 			(effects
 				(font
@@ -2736,6 +2817,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C852915"
+			(at 127 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c49f6cbd-f63c-4d8d-b8a3-f8cf7d9179a6")
 		)
@@ -2757,9 +2847,9 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f6aa109d-8a97-4444-9169-b45e8a79a0a8")
 		(property "Reference" "J202"
 			(at 37.846 49.53 0)
@@ -2842,6 +2932,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 38.1 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)

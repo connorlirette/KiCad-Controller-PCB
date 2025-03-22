@@ -1065,6 +1065,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C25105"
+			(at 102.87 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f8fd2c78-1f39-4150-93df-91f854e19450")
 		)
@@ -1264,6 +1273,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C25077"
+			(at 102.87 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a58b7f46-db1e-4c45-ae2c-4c726a5cb626")
 		)
@@ -1285,9 +1303,9 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c4664ba8-80f8-4567-832f-576985885996")
 		(property "Reference" "J301"
 			(at 117.856 50.8 0)
@@ -1326,6 +1344,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
+			(at 121.92 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 121.92 59.69 0)
 			(effects
 				(font
@@ -1397,6 +1424,15 @@
 			)
 		)
 		(property "Description" "Single Schmitt Buffer Gate, Low-Voltage CMOS"
+			(at 78.74 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C7836"
 			(at 78.74 59.69 0)
 			(effects
 				(font
